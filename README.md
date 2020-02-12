@@ -14,7 +14,11 @@
  
  2. 在nginx中代理
  
+ ![详细配置](https://github.com/Zuoxiaoxian/mabo_jili/blob/master/conf_imgs/demo1_config.png)
  
+ 3. 运行 nginx
  ```bash
 	nginx -c XXX.conf
  ```
+ 
+ 4. 本地访问 http://127.0.0.1
