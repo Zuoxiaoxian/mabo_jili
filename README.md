@@ -7,6 +7,14 @@
  
  ## demo2 使用leaflet实现弹出窗口、标记、处理事件
  
+ ## demo3 这个demo是离线的地图实例
+ 
+ ---
+ 
+	1、在leaflet的官网下载地图数据，格式为osm
+	2、使用Maperitive将osm处理成Tiles的文件夹，里面放的是256X256的png
+	3、替换原来的网址，在tileLayer中。
+ 
  
  [参考]:https://ng.ant.design/version/1.8.x/components/popover/zh
  
