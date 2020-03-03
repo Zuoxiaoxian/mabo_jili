@@ -13,6 +13,8 @@
  
  ## demo5 使用的时ng-zorro-ant的table
  
+ ## demo6 在demo5的基础上，进行父组件向子组件table组件中传递数据，使之可以可重复使用！
+ 
  ---
  
 	1、在leaflet的官网下载地图数据，格式为osm
