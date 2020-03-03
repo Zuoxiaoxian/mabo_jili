@@ -11,6 +11,8 @@
  
  ## demo4 这个demo是GeoJSON 点线面实例，和GeoJSON对象数组、传递函数改变属性、pointToLayer、onEachFeature等
  
+ ## demo5 使用的时ng-zorro-ant的table
+ 
  ---
  
 	1、在leaflet的官网下载地图数据，格式为osm
