@@ -17,9 +17,9 @@
  
  ## demo7 在demo1的基础上，实现marker图标高亮（闪烁）动画！
  
- ---
+ .....
  
-	<iframe height=400 width=500 src='https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif'>
+<iframe height=400 width=500 src='https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif'>
 	
  ---
  
