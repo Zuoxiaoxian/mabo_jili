@@ -17,8 +17,8 @@
  
  ## demo7 在demo1的基础上，实现marker图标高亮（闪烁）动画！
  
- ......
-[demo7](https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif)
+
+[demo7 效果](https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif)
  ---
  
 	1、在leaflet的官网下载地图数据，格式为osm
