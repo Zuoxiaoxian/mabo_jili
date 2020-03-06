@@ -19,8 +19,7 @@
  
  .....
  
-<iframe height=400 width=500 src='https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif'>
-	
+[demo7]:https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif
  ---
  
 	1、在leaflet的官网下载地图数据，格式为osm
