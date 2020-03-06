@@ -19,6 +19,10 @@
  
  ---
  
+	<iframe height=400 width=500 src='https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif'>
+	
+ ---
+ 
 	1、在leaflet的官网下载地图数据，格式为osm
 	2、使用Maperitive将osm处理成Tiles的文件夹，里面放的是256X256的png
 	3、替换原来的网址，在tileLayer中。
