@@ -19,6 +19,8 @@
  
  ### demo8 在demo2中test ag-Grid
  
+ ### demo9 整合组件之布局-Card，主要展示Card
+ 
 > - demo7 效果
 ![demo7 效果](https://github.com/Zuoxiaoxian/mabo_jili/blob/master/demo_gifs/demo7.gif)
 
